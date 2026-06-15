@@ -26,7 +26,7 @@ export default function Page() {
                     <Columns verticalAlign={"ALIGNED_CENTER"}>
                         <Column>
                             <Title level={1}>Integration responsive</Title>
-                            <Text>Le but sera d’intégrer une page typique de notre périmètre, en utilisant Trilogy en React, tout en partant d’une maquette <Link blank href="https://www.figma.com/design/HkCMBbeZjWXqmlYdkcO59G/Test-integration?node-id=0-1&t=CNt4mofwjJhJ6W4b-1">Figma</Link></Text>
+                            <Text>Le but sera d’intégrer une page typique de notre périmètre, en utilisant Trilogy en React, tout en partant d’une <Link blank href="/page-reseau.png">maquette</Link></Text>
                              <Text>L'accès à la documentation Trilogy, c'est <Link blank href="https://design.bouyguestelecom.fr/getting-started">par ici</Link>.</Text>
                         </Column>
                         <Column>
